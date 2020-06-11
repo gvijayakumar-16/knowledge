@@ -16,7 +16,16 @@
     * Lambda
     * SQS
     * SNS
+    * S3
 * [EventStore](https://eventstore.com/)
+* Grafana
+* Maven
+* SBT
+* Databases
+    * Postgres
+    * MongoDB
+    * ElasticSearch
+    * SQL Server
 
 # VSCode Shortcuts #
 * Preview readme.md - <kbd>Command+Shift+V</kbd>
