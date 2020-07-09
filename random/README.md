@@ -21,6 +21,7 @@
 * Grafana
 * Maven
 * SBT
+* GraphQL - BFF
 * Databases
     * Postgres
     * MongoDB
@@ -29,6 +30,7 @@
 
 # VSCode Shortcuts #
 * Preview readme.md - <kbd>Command+Shift+V</kbd>
-* Close sidebar - <kbd>Command+B</kbd>
+* Toggle sidebar - <kbd>Command+B</kbd>
 * Toggle terminal - <kbd>Control+`</kbd>
 * Toggle windows - <kbd>Command+Shift+`</kbd>
+* New terminal - <kbd>Control+Shift+`</kbd>
