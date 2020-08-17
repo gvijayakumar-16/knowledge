@@ -34,3 +34,4 @@
 * Toggle terminal - <kbd>Control+`</kbd>
 * Toggle windows - <kbd>Command+Shift+`</kbd>
 * New terminal - <kbd>Control+Shift+`</kbd>
+* Minimize file content - <kbd>Command+k+0</kbd>
