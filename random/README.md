@@ -22,6 +22,7 @@
 * Maven
 * SBT
 * GraphQL - BFF
+* d3.js
 * Databases
     * Postgres
     * MongoDB
