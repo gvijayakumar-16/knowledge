@@ -36,3 +36,5 @@
 * Toggle windows - <kbd>Command+Shift+`</kbd>
 * New terminal - <kbd>Control+Shift+`</kbd>
 * Minimize file content - <kbd>Command+k+0</kbd>
+* Clear terminal logs - <kbd>Command+k</kbd>
+* Vertical split editor panel - <kbd>Command+\</kbd>
