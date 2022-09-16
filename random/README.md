@@ -28,6 +28,7 @@
     * MongoDB
     * ElasticSearch
     * SQL Server
+    * SurrealDB
 
 # VSCode Shortcuts #
 * Preview readme.md - <kbd>Command+Shift+V</kbd>
