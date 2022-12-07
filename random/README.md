@@ -23,6 +23,7 @@
 * SBT
 * GraphQL - BFF
 * d3.js
+* Jscpd - Copy paste detector
 * Databases
     * Postgres
     * MongoDB
